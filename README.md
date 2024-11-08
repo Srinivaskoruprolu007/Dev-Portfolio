@@ -1,5 +1,3 @@
----
-
 # Srinivas Koruprolu Portfolio
 
 Welcome to my online portfolio! I am a passionate developer and data scientist with 1.8+ years of experience in front-end development, data science, and machine learning. This portfolio showcases my skills, projects, and professional journey.
@@ -64,7 +62,3 @@ Feel free to reach out for any queries or collaboration opportunities.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to copy and adjust the above template to reflect more details about your specific needs!
