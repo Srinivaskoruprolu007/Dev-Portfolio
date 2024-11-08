@@ -1,5 +1,3 @@
-Here’s a sample README file for your portfolio project with a general structure. You can customize the details to fit your needs.
-
 ---
 
 # Srinivas Koruprolu Portfolio
