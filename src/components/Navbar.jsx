@@ -6,8 +6,12 @@ const Navbar = () => {
       <div className="mx-auto max-w-7xl px-8 py-4 flex flex-col sm:flex-row sm:justify-between sm:items-center">
         {/* Left-aligned Title */}
         <h2 className="text-3xl font-bold sm:text-left">
-          <span className="block text-indigo-600">Srinivas</span>
-          <span className="block text-cyan-400">TechHub</span>
+          <span className="block text-indigo-600 motion-preset-typewriter-[8]">
+            Srinivas
+          </span>
+          <span className="block text-cyan-400 motion-preset-typewriter-[8]">
+            TechHub
+          </span>
         </h2>
 
         {/* Centered Navigation Links */}
