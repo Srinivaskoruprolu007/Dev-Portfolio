@@ -6,7 +6,7 @@ import { FaDatabase } from "react-icons/fa";
 import { DiDotnet } from "react-icons/di";
 import { SiMicrosoftexcel } from "react-icons/si";
 import { SiSitecore } from "react-icons/si";
-import { HappyHappenings } from "../src/assets/HappyHappenings.png";
+import  HappyHappenings from "../src/assets/HappyHappenings.png";
 
 export const links = [
   { id: nanoid(), href: "#home", text: "Home" },
