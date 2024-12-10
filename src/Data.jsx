@@ -76,6 +76,14 @@ export const projects = [
   },
   {
     id: nanoid(),
+    img: "../src/assets/HappyHappenings.png",
+    url: "https://happy-happenings-xom2.vercel.app/",
+    github: "https://github.com/Srinivaskoruprolu007/HappyHappenings",
+    title: "HappyHappenings",
+    text: "A Music Concert Management Application with minimal styling and having Feature to host music concerts anf featured videos.",
+  },
+  {
+    id: nanoid(),
     img: "https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800", // Replace with appropriate image for task manager
     url: "https://task-manager-kappa-eight.vercel.app/",
     github: "https://github.com/Srinivaskoruprolu007/task-manager",
